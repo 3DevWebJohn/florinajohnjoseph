@@ -162,6 +162,16 @@ const projectsData = [
       "https://drive.google.com/drive/folders/1m78jXJS-NCL-8ScXoySzNczv1Z9sOQCf?usp=drive_link",
     previewUrl: "/",
   },
+  {
+    id: 15,
+    title: "Stylized Door",
+    description: "Stylized Door",
+    image: "/images/projects/door.png",
+    tag: ["Blender"],
+    gitUrl:
+      "https://drive.google.com/drive/folders/1m78jXJS-NCL-8ScXoySzNczv1Z9sOQCf?usp=drive_link",
+    previewUrl: "/",
+  },
 ];
 
 const ProjectsSection = () => {
