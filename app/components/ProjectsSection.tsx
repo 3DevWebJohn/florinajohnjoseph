@@ -152,6 +152,16 @@ const projectsData = [
       "https://drive.google.com/drive/folders/1m78jXJS-NCL-8ScXoySzNczv1Z9sOQCf?usp=drive_link",
     previewUrl: "/",
   },
+  {
+    id: 14,
+    title: "Iso metric",
+    description: "Iso metric design",
+    image: "/images/projects/iso1.png",
+    tag: ["Blender"],
+    gitUrl:
+      "https://drive.google.com/drive/folders/1m78jXJS-NCL-8ScXoySzNczv1Z9sOQCf?usp=drive_link",
+    previewUrl: "/",
+  },
 ];
 
 const ProjectsSection = () => {
